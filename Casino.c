@@ -574,7 +574,8 @@ void deposit() {
         printf("Accept the payment request on UPI app");
         wait();
         printf("Deposit successful!!!\n");
-
+        printf("Redirceting to previous menu..\n");
+        wait();
         updateWalletBalance(filename, currentUsername, fetchWalletDetail(filename, currentUsername) + balance);
         updateCombinedTotals(balance, 0);  // Update combined deposit total
         printf("Your Total Balance is $%d\n", fetchWalletDetail(filename, currentUsername));

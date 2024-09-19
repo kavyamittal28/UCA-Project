@@ -1,4 +1,6 @@
 <h1>Flappy Bird</h1>
+<span><img src="image1.jpg" width="40%"></span>
+<span><img src="image2.jpg" width="40%"></span>
     <p><strong>Flappy Bird</strong> is a simple yet addictive side-scroller game where you control a bird trying to fly through obstacles (pipes). The bird automatically moves forward, and the player must tap or click to make it fly upward and avoid the pipes.</p>
 
    <h2>Features</h2>

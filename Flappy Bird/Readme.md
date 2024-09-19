@@ -34,7 +34,6 @@
         <li>HTML</li>
         <li>CSS</li>
         <li>JavaScript</li>
-        <li>Canvas API</li>
     </ul>
 
   <h2>Contributing</h2>
